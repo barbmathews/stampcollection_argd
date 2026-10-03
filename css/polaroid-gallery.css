@@ -51,7 +51,9 @@ body {
 .side-back p {
     padding: 30px;
     color: #8F8476;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: "sets-grotesk-l", sans-serif;
+    font-weight: 200;
+    font-style: normal;
 }
 
 .photo.flipped .side-front {
@@ -85,8 +87,10 @@ figure img {
 }
 
 figure figcaption {
-    font-family: Comic Sans, Comic Sans MS, cursive;
-    color: #8F8476;
+    font-family: "sets-grotesk-l", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color: #d12099;
 }
 
 .navbar {
@@ -95,7 +99,7 @@ figure figcaption {
     width: 100%;
     padding: 10px;
     text-align: center;
-    background-color: black;
+    background-color: #d12099;
     z-index: 999;
 }
 
@@ -103,19 +107,21 @@ button {
     background-color: transparent;
     padding: 10px 24px;
     color: #ffffff;
-    border: 2px solid black;
+    border: 2px solid #59b634;
     -webkit-transition-duration: 0.4s;
     -moz-transition-duration: 0.4s;
     transition-duration: 0.4s;
 }
 
 button:hover {
-    background-color: #a00;
+    background-color: #59b634;
     color: white;
 }
 
 #copyright {
-    font-family: Consolas, Verdana, Arial, sans-serif;
+    font-family: "sets-grotesk-l", sans-serif;
+    font-weight: 200;
+    font-style: normal;
     position: fixed;
     color: #ccc;
     text-decoration: none;
