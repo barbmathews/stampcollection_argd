@@ -1,76 +1,151 @@
 [
 {
-"name": "img/img01.jpg", 
+"name": "assets/IMG_20260919_0002.jpg", 
 "caption": "I am here",
 "description": "Il a pour lui l'éternité, montre en main.<br> — Jules Renard"
 },
 {
-"name": "img/img02.jpg",
+"name": "assets/IMG_20260919_0002.png",
 "caption": "Hellooooooo",
 "description": "Le temps confirme l'amitié.<br> — Henri Lacordaire"
 },
 {
-"name": "img/img03.jpg",
+"name": "assets/3stamp.png",
 "caption": "Testingtesting",
 "description": "Dans le temps, même le futur était mieux.<br> — Karl Valentin"
 },
 {
-"name": "img/img04.jpg",
+"name": "assets/4stamp.png",
 "caption": "wowooowowo",
 "description": "Il faut inventer en même temps que l'on apprend.<br> — Plutarque"
 },
 {
-"name": "img/img05.jpg", 
+"name": "assets/5stamp.png", 
 "caption": "Photo de groupe",
  "description": "Les doctrines passent - les anecdotes demeurent.<br> — Emil Michel Cioran"
 },
 {
-"name": "img/img06.jpg", 
+"name": "assets/6stamp.png", 
 "caption": "Mère et Fille",
 "description": "Il faut profiter du temps. Il ne passe pas deux fois.<br> — Melvin Gallant"
 },
 {
-"name": "img/img07.jpg", 
+"name": "assets/7stamp.png", 
 "caption": "Grand-père",
 "description": "Je m'amuse à vieillir. C'est une occupation de tous les instants.<br> — Paul Léautaud"
 },
 {
-"name": "img/img08.jpg", 
+"name": "assets/8stamp.png", 
 "caption": "Par la fenêtre",
  "description": "Le temps passe. Nous aussi.<br> — Félix Leclerc"
 },
 {
-"name": "img/img09.jpg",
+"name": "assets/9stamp.png",
 "caption": "Une des soeurs",
 "description": "Le temps met tout en lumière.<br> — Thalès"
 },
 {
-"name": "img/img10.jpg",
+"name": "assets/10stamp.png",
 "caption": "Les soeurs",
 "description": "Le temps n'a pas la même allure pour tout le monde !<br> — William Shakespeare"
 },
 {
-"name": "img/img11.jpg",
+"name": "assets/11stamp.png",
 "caption": "Partie de pêche",
 "description": "On ne possède rien, jamais, - Qu'un peu de temps.<br> — Eugène Guillevic"
 },
 {
-"name": "img/img12.jpg",
+"name": "assets/12stamp.png",
 "caption": "Famille",
 "description": "Vienne la nuit sonne l'heure ; les jours s'en vont je demeure.<br> — Guillaume Apollinaire"
 },
 {
-"name": "img/img13.jpg",
+"name": "assets/13stamp.png",
 "caption": "Ami",
 "description": "L'amitié peut se passer longtemps de preuves.<br> — Jules Renard"
 },
 {
-"name": "img/img14.jpg",
+"name": "assets/14stamp.png",
 "caption": "Une des Soeurs",
 "description": "Nous n'avons à nous que le jour d'aujourd'hui.<br> — Alphonse de Lamartine"
 },
 {
-"name": "img/img15.jpg",
+"name": "assets/15stamp.png",
+"caption": "Nounou",
+"description": "C'est le temps qui mûrit l'amour.<br> — Simone Piuze"
+},
+{
+"name": "assets/16stamp.png",
+"caption": "Nounou",
+"description": "C'est le temps qui mûrit l'amour.<br> — Simone Piuze"
+},
+{
+"name": "assets/17stamp.png",
+"caption": "Nounou",
+"description": "C'est le temps qui mûrit l'amour.<br> — Simone Piuze"
+},
+{
+"name": "assets/18stamp.png",
+"caption": "Nounou",
+"description": "C'est le temps qui mûrit l'amour.<br> — Simone Piuze"
+},
+{
+"name": "assets/19stamp.png",
+"caption": "Nounou",
+"description": "C'est le temps qui mûrit l'amour.<br> — Simone Piuze"
+},
+{
+"name": "assets/20stamp.png",
+"caption": "Nounou",
+"description": "C'est le temps qui mûrit l'amour.<br> — Simone Piuze"
+},
+{
+"name": "assets/21stamp.png",
+"caption": "Nounou",
+"description": "C'est le temps qui mûrit l'amour.<br> — Simone Piuze"
+},
+{
+"name": "assets/22stamp.png",
+"caption": "Nounou",
+"description": "C'est le temps qui mûrit l'amour.<br> — Simone Piuze"
+},
+{
+"name": "assets/23stamp.png",
+"caption": "Nounou",
+"description": "C'est le temps qui mûrit l'amour.<br> — Simone Piuze"
+},
+{
+"name": "assets/24stamp.png",
+"caption": "Nounou",
+"description": "C'est le temps qui mûrit l'amour.<br> — Simone Piuze"
+},
+{
+"name": "assets/25stamp.png",
+"caption": "Nounou",
+"description": "C'est le temps qui mûrit l'amour.<br> — Simone Piuze"
+},
+{
+"name": "assets/26stamp.png",
+"caption": "Nounou",
+"description": "C'est le temps qui mûrit l'amour.<br> — Simone Piuze"
+},
+{
+"name": "assets/27stamp.png",
+"caption": "Nounou",
+"description": "C'est le temps qui mûrit l'amour.<br> — Simone Piuze"
+},
+{
+"name": "assets/28stamp.png",
+"caption": "Nounou",
+"description": "C'est le temps qui mûrit l'amour.<br> — Simone Piuze"
+},
+{
+"name": "assets/29stamp.png",
+"caption": "Nounou",
+"description": "C'est le temps qui mûrit l'amour.<br> — Simone Piuze"
+},
+{
+"name": "assets/30stamp.png",
 "caption": "Nounou",
 "description": "C'est le temps qui mûrit l'amour.<br> — Simone Piuze"
 }
