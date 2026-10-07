@@ -1,3 +1,37 @@
+const endpointUrl = new URL('https://www.themealdb.com/api/json/v1/1/random.php');
+const options = {
+  method: 'GET'
+};
+
+async function fetchRandomMeal() {
+  try {
+    const response = await fetch(endpointUrl, options);
+    printResponse(response);
+  } catch (error) {
+    printError(error);
+  }
+}
+
+async function printResponse(response) {
+  try {
+    const content = await response.json();
+
+    // Printing a clean JSON response
+    const formattedJson = JSON.stringify(content, null, 4);
+    console.log(formattedJson);
+  } catch (err) {
+    // Print your custom error message here
+    console.log(`Error: ${err}`);
+  }
+}
+
+function printError(err) {
+  // Print your custom error message here
+  console.log(`Error: ${err}`);
+}
+
+fetchRandomMeal();
+
 var polaroidGallery = (function () {
     var dataSize = {};
     var dataLength = 0;
@@ -5,6 +39,7 @@ var polaroidGallery = (function () {
     var navbarHeight = 60;
     var resizeTimeout = null;
     var xmlhttp = new XMLHttpRequest();
+    
 
     function polaroidGallery(url) {
         observe();
@@ -164,6 +199,9 @@ var polaroidGallery = (function () {
             }
             select(dataSize[currentIndex]);
             shuffleAll();
+
+            
+            fetchRandomMeal(getendpointUrl);
         })
     }
 
